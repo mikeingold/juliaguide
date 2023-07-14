@@ -23,25 +23,6 @@
 
 <item>
   <title>
-    <![CDATA[  Julia Guide  ]]>
-  </title>
-  <link> https://mikeingold.github.io/juliaguide/gettingstarted/index.html </link>
-  <guid> https://mikeingold.github.io/juliaguide/gettingstarted/index.html </guid>
-  <description>
-    <![CDATA[  A guide to Julia  ]]>
-  </description>  
-    
-  <pubDate>Thu, 13 Jul 2023 00:00:00 +0000</pubDate>  
-  
-  
-  <atom:author>
-    <atom:name>Michael Ingold</atom:name>
-  </atom:author>
-        
-</item>
-
-<item>
-  <title>
     <![CDATA[  More goodies  ]]>
   </title>
   <link> https://mikeingold.github.io/juliaguide/menu2/index.html </link>
