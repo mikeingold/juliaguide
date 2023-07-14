@@ -11,12 +11,12 @@
     <title>
       <![CDATA[  Julia Guide  ]]>
     </title>
-    <link> https://www.github.com/mikeingold/juliaguide/ </link>
+    <link> https://mikeingold.github.io/juliaguide/ </link>
     <description>
       <![CDATA[  A guide to Julia for scientists and engineers.  ]]>
     </description>
     <atom:link
-      href="https://www.github.com/mikeingold/juliaguide/feed.xml"
+      href="https://mikeingold.github.io/juliaguide/feed.xml"
       rel="self"
       type="application/rss+xml" />
 
@@ -25,8 +25,8 @@
   <title>
     <![CDATA[  Julia Guide  ]]>
   </title>
-  <link> https://www.github.com/mikeingold/juliaguide/gettingstarted/index.html </link>
-  <guid> https://www.github.com/mikeingold/juliaguide/gettingstarted/index.html </guid>
+  <link> https://mikeingold.github.io/juliaguide/gettingstarted/index.html </link>
+  <guid> https://mikeingold.github.io/juliaguide/gettingstarted/index.html </guid>
   <description>
     <![CDATA[  A guide to Julia  ]]>
   </description>  

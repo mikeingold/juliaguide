@@ -1,4 +1,4 @@
-Sitemap: https://www.github.com/mikeingold/juliaguide/sitemap.xml
+Sitemap: https://mikeingold.github.io/juliaguide/sitemap.xml
 
 User-agent: *
 Disallow:
