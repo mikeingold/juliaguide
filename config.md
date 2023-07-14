@@ -15,7 +15,7 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Julia Guide"
 website_descr = "A guide to Julia for scientists and engineers."
-website_url   = "https://www.github.com/mikeingold/juliaguide/"
+website_url   = "https://mikeingold.github.io/juliaguide/"
 +++
 
 <!--
