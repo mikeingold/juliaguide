@@ -1,4 +1,4 @@
-+++
+-repl+++
 title = "Getting Started with Julia"
 hascode = true
 date = Date(2023, 7, 14)
@@ -28,5 +28,16 @@ winget install julia -s msstore
 
 ### Package Manager
 
+There are two ways to interact with Julia's package manager: an interactive mode available inside the REPL, and via the native `Pkg` package.
+
+To enter the interactive package manager, simply press the right-bracket key `]` from the Julia REPL.
+```julia-repl
+julia> ]
+```
+
 ### Documentation Browser
 
+Offline documentation for Julia functions and operators is available via an interactive mode within the REPL, similar to Matlab's `help` command.
+```julia-repl
+julia> ?
+```
