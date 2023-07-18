@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  Julia Guide  ]]>
+    </title>
+    <link> https://mikeingold.github.io/juliaguide/ </link>
+    <description>
+      <![CDATA[  A guide to Julia for scientists and engineers.  ]]>
+    </description>
+    <atom:link
+      href="https://mikeingold.github.io/juliaguide/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  Getting Started with Julia - Fourier Transforms  ]]>
+  </title>
+  <link> https://mikeingold.github.io/juliaguide/fourier/index.html </link>
+  <guid> https://mikeingold.github.io/juliaguide/fourier/index.html </guid>
+  <description>
+    <![CDATA[  Getting started with Julia - Fourier Transforms  ]]>
+  </description>  
+    
+  <pubDate>Tue, 18 Jul 2023 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Michael Ingold</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>
