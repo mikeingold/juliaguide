@@ -13,7 +13,7 @@ tags = ["guide", "julia", "installation"]
 
 ## Installation
 
-\note{For Linux users: the Julia maintainers do not recommend installation via your OS package manager (e.g. `apt-get`, `dnf`, `pacman`, etc). As of 2023, these Julia packages remain unofficial, community maintained, and they can be prone to bugs caused by challenges with packaging and linking for all of the correct upstream requirements.}
+Linux note goes here.
 
 ### The Easy Way (juliaup)
 
