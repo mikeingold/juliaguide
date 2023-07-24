@@ -1,10 +1,6 @@
 +++
-title = "Getting Started with Julia - Fourier Transforms"
+title = "Fourier Transforms"
 hascode = true
-date = Date(2023, 7, 18)
-rss = "Getting started with Julia - Fourier Transforms"
-
-tags = ["guide", "julia", "Fourier", "fft"]
 +++
 
 # Fourier Analysis
