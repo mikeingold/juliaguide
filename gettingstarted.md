@@ -1,12 +1,3 @@
--repl+++
-title = "Getting Started with Julia"
-hascode = true
-date = Date(2023, 7, 14)
-rss = "Getting started with Julia"
-
-tags = ["guide", "julia", "installation"]
-+++
-
 # Getting Started
 
 \tableofcontents
