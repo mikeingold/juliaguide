@@ -1,4 +1,4 @@
-@def title = "Franklin Example"
+g@def title = "Franklin Example"
 @def tags = ["syntax", "code"]
 
 # How to use Franklin
@@ -17,6 +17,9 @@ Ps: if you want to modify the header or footer or the general look of the websit
 
 * [Getting Started](/gettingstarted/)
 * [Fourier Analysis](/fourier/)
+* [Parallel Processing](/parallel/)
+* GPU Computing
+* Optimization
 
 ## References (not really)
 
